@@ -1,4 +1,4 @@
-<h2 align="left">PSOO - Egidio assasino</h2>
+<h2 align="left">PSOO - Egidio</h2>
 
 ###
 
